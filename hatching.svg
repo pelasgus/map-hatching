@@ -1,0 +1,1 @@
+data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="4" stroke="%236e675d" stroke-width="1.0"/></pattern></defs><rect width="16" height="16" fill="url(#hatch)"/></svg>
